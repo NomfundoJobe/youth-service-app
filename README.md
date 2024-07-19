@@ -1,5 +1,6 @@
 # youth-service-app
 Overview
+
 Creating an app to encourage youth to be proactive about attending Friday youth services that will help them to engage more in participating in the youth service. I am using Streamlit to implement the interactive features and user interface elements of my app. The Youth Service App is a web application designed to manage seat and food reservations for youth services. It provides an easy-to-use interface for youth members to RSVP and ensure their spot at events.
 
 Features
